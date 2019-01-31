@@ -1,1 +1,2 @@
-# UNITYARKITSAMPLE
+# Unity用ARkitの雛形
+
